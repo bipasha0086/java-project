@@ -67,7 +67,20 @@ EventCalendar/
 └── pom.xml / .classpath / .project
 
 
+## 🖼️ Screenshots
 
-![Home Page](Screenshots/Screenshot%202025-11-08%20131329.png)
-![Add Event Page](Screenshots/Screenshot%202025-11-08%20131340.png)
-![View Calendar Page](Screenshots/Screenshot%202025-11-08%20131754.png)
+### 🏠 Home Page
+<img src="Screenshot 2025-11-08 131329.png" alt="Home Page" width="800"/>
+
+---
+
+### ➕ Add Event Page
+<img src="Screenshot 2025-11-08 131340.png" alt="Add Event" width="800"/>
+
+---
+
+### 📅 View Calendar Page
+<img src="Screenshot 2025-11-08 131754.png" alt="View Calendar" width="800"/>
+
+
+
